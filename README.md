@@ -18,19 +18,25 @@ for i in `seq 1 2000`; do curl URL/parser.php; done
 #DNB Visualizations
 
 ##City
-city.php
+*city.php*
+
+This visualization allows the comparison of cities. The tool visualizes every person who was living in a city at a certain year. Furthermore the user can filter by job.
 
 ![DNB Visualization](http://sebastian-meier.github.io/dnb-visualization/img/city.jpg)
 
 
 ##Map
-map.php
+*map.php*
+
+This visualization shows the cities from the the visualization above on a map. The user can select a certain timeframe or switch between locations and persons.
 
 ![DNB Visualization](http://sebastian-meier.github.io/dnb-visualization/img/map.jpg)
 
 
 ##Person
-person.php
+*person.php*
+
+The last visualization allows the user to visualize a single person and the locations the person was living/working/... in during her lifetime. Furthermore the user can filter the data to only see persons with a job similar to the selected person.
 
 ![DNB Visualization](http://sebastian-meier.github.io/dnb-visualization/img/person.jpg)
 
