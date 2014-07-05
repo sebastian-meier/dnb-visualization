@@ -49,3 +49,5 @@ https://dl.dropboxusercontent.com/u/4352238/dnb.sql.zip
 
 This project was part of the Coding Da Vinci - Hackathon:
 http://www.codingdavinci.de
+
+The license doesn't apply for the libraries included in visualization/js/...
