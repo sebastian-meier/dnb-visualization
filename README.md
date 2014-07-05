@@ -20,19 +20,19 @@ for i in `seq 1 2000`; do curl URL/parser.php; done
 ##City
 city.php
 
-![DNB Visualization](sebastian-meier.github.com/dnb-visualization/img/city.jpg)
+![DNB Visualization](http://sebastian-meier.github.io/dnb-visualization/img/city.jpg)
 
 
 ##Map
 map.php
 
-![DNB Visualization](sebastian-meier.github.com/dnb-visualization/img/map.jpg)
+![DNB Visualization](http://sebastian-meier.github.io/dnb-visualization/img/map.jpg)
 
 
 ##Person
 person.php
 
-![DNB Visualization](sebastian-meier.github.com/dnb-visualization/img/person.jpg)
+![DNB Visualization](http://sebastian-meier.github.io/dnb-visualization/img/person.jpg)
 
 
 An Demonstrator for the visualizations can be found on:
