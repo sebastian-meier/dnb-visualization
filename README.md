@@ -3,8 +3,6 @@ dnb-visualization
 
 Visualizing the German National Library (DNB) Data 
 
-![DNB Visualization](sebastian-meier.github.com/dnb-visualization/img/image.jpg)
-
 #DNB XML Parser
 
 The DNB Api (http://www.dnb.de/DE/Service/DigitaleDienste/digitaledienste_node.html) is not made for requesting the whole data stored in the GND. It is only build for synchronizing databases that already hold the same dataset. So you usually just request changes after date XY.
@@ -22,11 +20,20 @@ for i in `seq 1 2000`; do curl URL/parser.php; done
 ##City
 city.php
 
+![DNB Visualization](sebastian-meier.github.com/dnb-visualization/img/city.jpg)
+
+
 ##Map
 map.php
 
+![DNB Visualization](sebastian-meier.github.com/dnb-visualization/img/map.jpg)
+
+
 ##Person
 person.php
+
+![DNB Visualization](sebastian-meier.github.com/dnb-visualization/img/person.jpg)
+
 
 An Demonstrator for the visualizations can be found on:
 http://www.sebastianmeier.eu/2014/06/21/deutsche-national-bibliothek-data-explorer/
